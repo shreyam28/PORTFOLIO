@@ -123,7 +123,7 @@ export const HeroSection = () => {
                 className="hover:shadow-glow transition-all duration-300"
                 asChild
               >
-                <a href="https://github/shreyam28.com" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/shreyam28" target="_blank" rel="noopener noreferrer">
                   <Github className="h-4 w-4" />
                 </a>
               </Button>
@@ -134,7 +134,7 @@ export const HeroSection = () => {
                 className="hover:shadow-glow transition-all duration-300"
                 asChild
               >
-                <a href="https://linkedin/shreyam-raj-b7620a2b1.com" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.linkedin.com/in/shreyam-raj-b7620a2b1" target="_blank" rel="noopener noreferrer">
                   <Linkedin className="h-4 w-4" />
                 </a>
               </Button>

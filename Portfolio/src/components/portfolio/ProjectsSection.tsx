@@ -11,7 +11,7 @@ const projects = [
     description:
       "Interactive dashboard for U.S. real estate trends with state-level filtering and dynamic visualizations using Shiny for Python.",
     tech: ["Python", "Shiny", "Plotly", "Pandas"],
-    githubRepo: "https://github.com/shreyam28/Shiny_US_Housing_App",
+    github: "https://github.com/shreyam28/Shiny_US_Housing_App",
     demo: "#",
     image: "/images/Housing.jpg",
   },
@@ -20,7 +20,7 @@ const projects = [
     description:
       "Fully responsive YouTube-like frontend with video grid, search, and state-managed routing using Redux Toolkit.",
     tech: ["React", "Tailwind CSS", "Redux Toolkit"],
-    githubRepo: "https://github.com/shreyam28/Youtube-Clone",
+    github: "https://github.com/shreyam28/Youtube-Clone",
     demo: "#",
     image: "/images/Youtube-Clone.jpg",
   },
@@ -37,7 +37,7 @@ const projects = [
     description:
       "Portfolio website for a women's clothing store showcasing collections with smooth animations and reusable components.",
     tech: ["React", "Tailwind CSS"],
-    githubRepo: "https://github.com/shreyam28/mytalorzone",
+    github: "https://github.com/shreyam28/mytalorzone",
     demo: "https://chic-moonbeam-ed936c.netlify.app/",
     image: "/images/Clothing.jpg",
   },
